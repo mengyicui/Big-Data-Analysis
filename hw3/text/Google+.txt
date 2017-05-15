@@ -1,0 +1,173 @@
+Google+ (pronounced and sometimes written as Google Plus) is an interest-based social network that is owned and operated by Google.
+The service, Google's fourth foray into social networking, experienced strong growth in its initial years, although usage statistics have varied, depending on how the service is defined. Three Google executives have overseen the service, which has undergone substantial changes leading to a redesign in November 2015.
+
+
+== History ==
+
+
+=== Creation ===
+Google+ is the company's fourth foray into social networking, following Google Buzz (launched 2010, retired in 2011), Google Friend Connect (launched 2008, retired by March 1, 2012), and Orkut (launched in 2004, as of 2013 operated entirely by subsidiary Google Brazil – retired in September 2014).
+Google+ launched in June 2011. Features included the ability to post photos and status updates to the stream or interest based communities, group different types of relationships (rather than simply "friends") into Circles, a multi-person instant messaging, text and video chat called Hangouts, events, location tagging, and the ability to edit and upload photos to private cloud-based albums.
+According to a 2016 book by a former Facebook employee, some leaders at Facebook saw Google's foray into social networking as a serious threat to the company. Facebook founder Mark Zuckerberg instituted a company-wide "lockdown", signaling that employees were supposed to dedicate time to bringing Facebook's features into line with Google+.
+
+
+=== Growth ===
+Assessments of Google+ growth have varied widely because Google first defined the service as a social network, then later as "a social layer across all of Google's services", allowing them to share a user's identity and interests. According to Ars Technica, Google+ signups were "often just an incidental byproduct of signing up for other Google services." Consequently, the reported number of active users on Google+ grew significantly, but the average time those users spent on the site was a small fraction of that on comparable social media services.
+In 2011 Google+ reached 10 million users just two weeks after the launch. In a month, it reached 25 million. In October 2011, the service reached 40 million users, according to Larry Page. Based on ComScore, the biggest market was the United States followed by India. By the end of the year Google+ had 90 million users. In October 2013, approximately 540 million monthly active users made use of the social layer by interacting with Google+'s enhanced properties, like Gmail, +1 button, and YouTube comments. Some 300 million monthly active users participated in the social network by interacting with the Google+ social networking stream.
+But user engagement on Google+ was low compared with its competitors. ComScore estimated that users averaged just 3.3 minutes on the site in January 2012, versus 7.5 hours for Facebook. In March 2013, average time spent on the site remained low: roughly 7 minutes, according to Nielsen, not including traffic via apps. In February 2014, The New York Times likened Google+ to a ghost town, citing Google stats of 540 million "monthly active users", but noting that almost half don't visit the site. The company replied that the significance of Google+ was less as a Facebook competitor than as a means of gathering and connecting user information from Google's various services.
+
+
+=== Changes in management and product direction ===
+In April 2014, Vic Gundotra, the executive in charge of Google+, departed the company with management responsibility going to David Besbris. By March 2015, Google executive Bradley Horowitz, who had co-founded Google Plus with Gundotra, had replaced Besbris, becoming vice president of streams, photos, and sharing.
+In an interview with Steven Levy published on May 28, 2015, Horowitz said that Google+ was about to undergo a "huge shift" that would better reflect how the service is actually used. By that time, two core Google+ functions, communications and photos, had become standalone services. Google Photos, Google's photo and video library, was announced at the May 2015 Google I/O conference. Google Hangouts, Google's communications platform, was announced two years earlier, also at Google I/O. Google subsequently refocused Google+ on shared interests, removing features not supporting "an interest-based social experience". The company also eliminated the Google+ social layer; users no longer needed a Google+ profile to share content and communicate with contacts. The transition began with YouTube, where a Google+ profile was no longer required to create, upload, or comment on a channel, but a Google+ page was instead required. YouTube comments no longer appeared on Google+ or vice versa.
+On November 18, 2015, Google unveiled a significant redesign of Google+; the new interface places a larger focus on the Communities and Collections functionality in an effort to narrow the service's scope into interest-based networking.
+
+
+=== Redesign ===
+In November 2015, Google Plus underwent a redesign with the stated intent of making the site simpler and faster, making the new features of Communities and Collections more prominent, and removing features such as Hangouts, Events and Custom URLs. Until January 24, 2017, users accessing the site using desktop computers could access some of the discontinued features by selecting option "Back to classic G+".
+
+
+== User demographics ==
+Google+'s user base was roughly 60% male and 25% female as of November 2013, and 15% "other" or unknown. Early adopters of Google in mid-2011 were mostly male (71.24%), and the dominant age bracket (35%) was between 25 and 34. An August 2011 survey estimated that 13% of U.S. adults had joined Google+.
+
+
+== Features and functions ==
+
+
+=== User profile ===
+A Google+ User profile is a public visible account of a user that is attached to many Google properties. It includes basic social networking services like a profile photo, about section, background photo, cover photo, previous work and school history, interests, places lived and an area to post status updates. It also includes several identity service sections, such as a contributor and other profiles area that let one link their "properties across the web". These sections optionally link to other social media accounts one has, any blogs one owns or have written or sites one is a contributor to. This area is used for Google Authorship. Customized or Vanity URLs were made available to the public starting on October 29, 2013 to any account that is 30+ days old and has a profile photo and at least 10 followers. Google removed author photos from search results in June 2014 and in August 2014 Google has stopped showing authorship in search results, both photo and author name.
+
+
+=== Circles ===
+Circles is a core feature of the Google+ Social Platform. It enables users to organize people into groups or lists for sharing across various Google products and services. Organization of circles is done through a drag-and-drop interface. Once a circle is created, a Google+ user can share specific private content to only that circle. For example, work themed content can be shared with only colleagues, and one's friends and family could see more personal content and photos. The option to share Public or with Everyone is always available. Users were originally able to create Shared Circles, a one-time share to promote a circle of individuals, but the feature has been removed.
+Another function of Circles is to control the content of one's Stream. A user may click on a Circle on the left side of the page and the Stream portion of the page (the center) will contain only posts shared by users in that Circle. For the unsegmented Stream (includes content from all of a user's Circles), each Circle has a "slider" configuration item with four positions: nothing, some things, most things, and everything. The nothing position requires the user to select (click on) the Circle name explicitly to see content from users in that Circle. The everything setting as its name implies filters nothing out from people in that Circle. The remaining two positions control the quantity of posts which appear in one's main Stream, but the algorithm controlling what shows has not been disclosed.
+
+
+=== Stream ===
+In the "Stream", which occupies the middle of three columns on the page, users see updates from those in their Circles. There is an input box which allows users to enter a post. Along with the text entry field there are icons to upload and share photos and videos. The Stream can be filtered to show only posts from specific Circles.
+
+
+=== Identity Service ===
+Starting in November 2011, Google+ profiles are used as the background account for many Google Services including YouTube, Gmail, Google Maps, Android, Google Play, Google Music, Google Voice, Google Wallet, Google Local and more. As of January 10, Google Search is customized with a feature called Search Plus Your World, which inserts content shared on Google+ profiles and brand pages under Web Search results, if one is logged into their Google+ account while using it. The feature, which is opt-in, was received with controversy over the emphasis of Google+ profiles over other social networking services. The feature builds upon the earlier "Social Search" feature which indexes content shared or published by authors; "Social Search", however, relied partly upon returns from non-Google services, such as Twitter and Flickr. Google and Twitter had a contract that expired in July 2011 which is the reason Tweets are no longer shown.
+
+
+=== Privacy ===
+The privacy setting allows users to disclose certain information to the circles of their choice. Users can also see their profile visitors.
+
+
+=== +1 Button ===
+Google+ has a "+1 button" to allow people to recommend sites and parts of sites, similar in use to Facebook's Like button.
+
+
+=== Google+ Pages ===
+Google+ Pages was released on November 7, 2011 to all users, which allows businesses to connect with fans. It allows entities which are not individuals (such as organizations, companies, and publications) to set up profiles, or "pages", for the posting and syndication of posts. It is similar to Facebook Pages.
+Google+ Badges was quietly introduced to select enterprises beginning November 9, 2011 and officially released to the public on November 16. Badges are sidebar widgets which embed "Add to Circles" buttons and drop-down lists into off-site websites and blogs, similar to Facebook's Like Box widgets. This was officially treated by Google as a replacement for the older Google Friend Connect and its widgets, and GFC was announced by Senior Vice President of Operations Urs Hölzle on November 23, 2011, as scheduled to be retired by March 12, 2012 on all non-Blogger sites in favor of Google+ Page Badges.
+Google+ Views was introduced on April 1, 2014. It features a "view counter", which is displayed on every user’s profile page. The view counter shows the number of times the user's content has been seen by others, including photos, posts, and profile page.
+
+
+=== Communities ===
+Google+ Communities: Released December 6, 2012, Google+ Communities allow users to create ongoing conversations about particular topics. Google+ Communities can also be created and managed under Google+ Page accounts.
+
+
+=== Locations ===
+Currently (April 2014) between Communities and Hangouts on the main mobile menu, Locations is mostly the service that was Latitude. It allows the account holder to share their location with a person, circle or circles. The location can be as accurate as the GPS on the mobile device or can be set to only show city. That distinction on the map is shown by the shape of the avatar or profile photo. Further, if the device is between locations or, in the US, on a state line, the location will be given as the state or as "United States". If the location isn't updated by a mobile device or Web browser, the profile shows the static location named in the profile after 24 hours. (Its life earlier in 2014 was a week.)
+
+
+=== What's Hot ===
+"What's hot" Stream, introduced on October 27, 2011, is a stream showing what Google+ users have commented, shared and interacted with the most. It is similar to "Trending Topics" On Twitter.
+
+
+=== Google Local ===
+On June 11, 2014, Google combined Google Places and Google+ Local Business Pages with the Google My Business product. The product uses the interface of Google+ but has many more features including insights and analytics. On May 30, 2012, Google Places was replaced by Google+ Local, which now integrates directly with the Google+ service to allow users to post photos and reviews of locations directly to its page on the service. Additionally, Google+ Local and Maps also now feature detailed reviews and ratings from Zagat, who was acquired by Google in September 2011.
+
+
+=== Photography ===
+
+Google+ Creative Kit is an online photo editor integrated to Google+ on October 27, 2011, which is essentially Picnik, integrated earlier to Picasa Web Albums.
+Auto Awesome: Released at Google I/O in 2013, the feature applies special effects, manually (with Android) or automatically, often using multiple sequential shots. Effects include composite motion in a single image, short animation, photo booth style, and high-dynamic range rendering (HDR).
+Auto Enhance: With Auto Enhance, Google+ makes subtle adjustments to hypothetically improve photos.
+Google+ Auto-Backup: A desktop utility that imports a large collection of photos and videos.
+
+
+=== Additional features ===
+"Instant Upload" is specific to mobile devices; it stores photos or videos in a private album for sharing later.
+A "Data Liberation" option provides the ability to download one's content from Google+.
+Hashtags, where "#" is written before a word or CamelCase, are hyperlinked to the most recent or highest-trending search results within Google+ containing the term. This, a feature which gained notoriety as a microblogging practice on Twitter, was implemented as a Google+ feature on October 12, 2011. Autocompletion came on January 17, 2012.
+"New Features for Google+ Mobile" Since the launch of Google+, Google has been adding and making changes to many features. On September 30, 2011, the company released a list of changes and additions to Google+ mobile which include:Broadened SMS support so that users in the 185 countries including U.S. and India can now post to Google+, receive notifications, and respond to group messages via SMS. They have also made it easier to +mention someone from a mobile device. Now, to +mention another user, one simply writes +[their name] inside a post or comment. In order to +1 comments more easily, users are now able to +1 them directly from their iOS devices. They also introduced this feature to the Android app in December 2011.
+
+Select public figures have verified names. Google determines whether a particular profile warrants verification. The purpose is to indicate to site visitors whether a particular profile belongs to who one would generally expect the name to be, and not someone who coincidentally has the same name as a public figure. Verified identity profiles have a checkmark logo after their name. Examples of profiles bearing the verified name badge include Linus Torvalds, William Shatner, Leo Laporte, Mark Zuckerberg, Larry Page, and Sergey Brin.
+
+
+=== Collections ===
+In May 2015, Google+ launched “Collections” feature which was inspired by Pinterest. It allows users to "build content collections based on topics and interests".
+
+
+=== Deprecated features ===
+"Search in Google+" allowed users to search for content within Google+. Users type what they're looking for into the Google+ search box, and Google will return relevant people and posts, as well as popular content from around the web. The search feature no longer appears on Google+, but Google+ content can be searched via the standard Google search engine.
+"Messenger" (formerly: Huddle) is a feature available to Android, iPhone, and SMS devices for communicating through instant messaging within Circles. Additionally, users can share photos in Messenger between their Circles. This feature was removed in August 2013 since it is superseded by Hangouts.
+"Sparks" is a front-end to Google Search, enabling users to identify topics they might be interested in sharing with others. "Featured interests" sparks are also available, based on topics others globally are finding interesting. Sparks is accessed as a pull-down from search results and helps to keep users informed of the latest updates on the topics of their interest. Sparks was removed sometime in November 2012.
+"Games" had 16 games when launched on August 11, 2011, which expanded to 44 a few months later, but by April 2013 there were 38 since some games were removed by the owner. Unlike Facebook games, Google+ games are located under a games tab, which gives games less visibility, and had separate notifications from the rest of a user's notifications. All games were deleted from Google+ in June 2013.
+Ripples, introduced on October 27, 2011, was a visualization tool, showing how resharing activity happens regarding a public post. One could replay the public share's activity, zoom in on certain events, identify top contributors, view statistics about average chain length, the most influential people in the chain, the language of the sharers, etc. The feature was removed in May 2015.
+Google Hangouts, the feature that enabled users to chat, voice, and video conference between users, was removed from Google+ as part of the November 2015 redesign and made accessible through its own Hangouts homepage and mobile applications.
+Hangouts on Air, introduced in Sept 2011, the livestreaming service was moved to YouTube Live starting Sept 12, 2016.
+Google+ Events, the ability to allow create and invite users to share photos and media in real time was removed from Google+ as part of the November 2015 redesign.
+
+
+== Technologies ==
+According to Joseph Smarr, one of the Google+ team's technical leads, Google+ is a typical Google web application: it uses Java servlets for the server code and JavaScript for the browser-side of the UI, largely built with Google's Closure framework, including the JavaScript compiler and the template system. They use the HTML5 History API to maintain good-looking URLs in modern browsers despite the AJAX app. To achieve fast response times Google often renders the Closure templates on the server side before any JavaScript is loaded; then the JavaScript finds the right DOM nodes, hooks up event handlers, etc. The back ends are built mostly on top of BigTable and Colossus/GFS, and other common Google technologies such as MapReduce.
+
+
+== Controversies and criticism ==
+
+
+=== Gender disclosure ===
+When joining the service, new users are asked for real-name and gender disclosure, which at launch was shared as public information. The gender selector has options for "Male", "Female", and "Other". The mandatory public gender exposure led to criticism for making older Google profiles public. In response, Google made changes to the service that allows users to control the privacy settings of their gender information. Google's justification for requiring gender information is that it uses that information to inform its usage of the terms "he", "she", and "they" in their delivery of information to users of the service. If a user decides to make the gender portion of the profile private, the language used to convey information becomes gender-neutral, using the singular they in place of gender-specific pronouns.
+
+
+=== Censorship by governments ===
+Within a day of the website's launch, various news agencies reported that Google+ was blocked by the People's Republic of China. This is part of a wider policy of censorship in mainland China. The Iranian government has also blocked access to Google+ from July 11, 2011, as part of Internet censorship in Iran. Despite experiencing high growth in the U.S and European markets, Google+ still remains unavailable in mainland China. While it is not technically "blocked", it was made impossible to use by slowing it down to a crawl.
+
+
+==== "Occupy Obama's G+" ====
+On February 20, 2012, Internet users from the People's Republic of China realized that state restrictions on Google+ had been relaxed for unknown reasons, allowing them to post on Google+ pages. In particular, Chinese users began to inundate the official election campaign pages of U.S. president Barack Obama on Google+ with often off-topic comments in simplified Chinese characters.
+
+
+=== Nymwars ===
+
+In July 2011, Google+ required users to identify themselves using their real names and some accounts were suspended when this requirement was not met. Google VP Bradley Horowitz stated that a violation of the terms of service will only affect offenders' access to Google+ and not any of the other services that Google provides. However, there were early reports of account holders being temporarily locked out of all of Google services.
+On October 19, 2011, at the Web 2.0 Summit, Google executive Vic Gundotra revealed that Google+ would begin supporting pseudonyms and other types of identity "within a few months". As of January 23, 2012, Google+ allows the use of established pseudonyms. In July 2014, Google Plus policy was changed to allow any name to be used.
+
+
+=== Commenting on YouTube ===
+On November 6, 2013, YouTube, Google's popular video hosting site began requiring that commenting on its videos be done via a Google+ account, making pre-Google+ integrated comments unable to reply to. YouTube said that their new commenting system featured improved tools for moderation, and comments would no longer be shown chronologically, but would be featured according to "relevance" and popularity, determined by the commenters' community engagement, reputation, and up-votes for a particular comment.
+The decision led hundreds of thousands of users to criticize the change. Some YouTube commenters and content creators complained that the Google+ requirement that users use their real name created online privacy and security concerns. YouTube co-founder Jawed Karim voiced his disapproval in one of a few comments subsequent to the change including the temporary addition of the following text, "I can't comment here anymore, since I don't want a google+ account" to the description of the first ever video on the site. Commenters on YouTube pasted text art tanks and stick figures called "Bob" to protest the new commenting system and Google+. Supporters of the changes said it was a positive step at cleaning up the "virtual cesspool" of homophobic, racist, sexist and offensive comments found on YouTube. However, this actually increased the spam, and in fixing the issue, Google took the opportunity to strike back against those posting "Bob" ASCII art in protest at the company's actions.
+On July 27, 2015, it was announced that the integration with Google+ would be discontinued and that in terms of Google+ integration, YouTube would require only a Google+ page to use all the features, such as uploading videos and posting comments. YouTube expects these changes to be rolled out over the course of several months, with the comments feature already having an update: comments now only appear on YouTube and are no longer shared to the social network platform.
+In October 2016, YouTube made it possible to reply to pre-Google+ integrated comments once more with or without a Google+ account.
+
+
+== In popular culture ==
+The Internship, a comedy released on June 7, 2013 directed by Shawn Levy and starring Owen Wilson and Vince Vaughn is based on working at Google and makes many references to Google+.
+American talk show hosts Conan O'Brien, Stephen Colbert, and Jimmy Fallon have mentioned Google+ in sketches and monologues.
+Various well-known people and organizations have used Google+ Hangouts including U.S. President Barack Obama, NASA, Steven Spielberg, The Black Eyed Peas, Tyra Banks, and Paris Hilton.
+
+
+== See also ==
+
+Apache Wave (previously called Google Wave)
+Google App Engine
+Google Buzz
+Google Sites
+List of social networking websites
+List of virtual communities with more than 100 million users
+Orkut
+
+
+== References ==
+
+
+== External links ==
+Official website (Mobile)
+Google+ on Google+
+Google+ on iTunes Preview
+Google+ on Google Play
+"Thoughts on Google+": November 2014 critique by former Google+ UX designer and developer advocate Chris Messina
